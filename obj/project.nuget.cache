@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "WfHbM6SkpRJH3dsdCaBe57Nqlf9E8CYEtRhPo8mQdg8YLkMspDc70FrEU3Pvvk7/ZNIqPzaBZNPq7GfYjLR9PQ==",
+  "dgSpecHash": "NPSXV/HDvN7D1BfP1BdbWc/tjddCqLZeCwlor38mXi0GooV7KrGME2cXkxCBz9JRG3P49hECHTAUrXjXBLtsyA==",
   "success": true,
   "projectFilePath": "E:\\.net\\PlatformService\\PlatformService.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Mark\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\Mark\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\Mark\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Mark\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.3\\microsoft.entityframeworkcore.6.0.3.nupkg.sha512",
     "C:\\Users\\Mark\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.3\\microsoft.entityframeworkcore.abstractions.6.0.3.nupkg.sha512",
     "C:\\Users\\Mark\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.3\\microsoft.entityframeworkcore.analyzers.6.0.3.nupkg.sha512",
